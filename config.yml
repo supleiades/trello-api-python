@@ -1,0 +1,15 @@
+---
+## select parameter
+# teams:
+#   {boad_name: team_name}:
+#     - {list_name: member_name}
+teams:
+  team1:
+  - "member1"
+  - "memter2"
+  team2:
+  - "member3"
+  - "member4"
+  team3:
+  - "member5"
+  - "member6"
